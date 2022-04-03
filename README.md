@@ -11,7 +11,7 @@ Skills
 Projects
 - R: Bellabeat Fitness Data
 - Excel + SQL + Tableau: COVID Dashboard
-- [Tableau: Women in the Olympics](https://public.tableau.com/app/profile/khaitlin.bernaldez/viz/WomenintheOlympics_16467230855410/Dashboard12)
+- [**Tableau**: Women in the Olympics](https://public.tableau.com/app/profile/khaitlin.bernaldez/viz/WomenintheOlympics_16467230855410/Dashboard12)
 - Python: DNA Sequencing
 
 Resources
