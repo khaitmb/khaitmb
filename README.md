@@ -17,9 +17,9 @@ Projects
 Resources
 
 Contact
-- Kaggle
-- Tableau
-- LinkedIn
+- [Tableau] (https://public.tableau.com/app/profile/khaitlin.bernaldez#!/?newProfile=&activeTab=0)
+- [LinkedIn] (https://www.linkedin.com/in/khaitlin-bernaldez-9571261b0)
+- [Kaggle] (https://www.kaggle.com/khaitlinbernaldez)
 
 
 <!---
