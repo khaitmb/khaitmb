@@ -9,9 +9,9 @@
 - Skills: Data analysis, Data visualization
 
 ### Projects
-- [**R**: Bellabeat Fitness Data](https://www.kaggle.com/code/khaitlinbernaldez/bellabeat-fitness-case-study?scriptVersionId=92026763)
+- [**R**: Generating Marketing Suggestions using Bellabeat Fitness Data](https://www.kaggle.com/code/khaitlinbernaldez/bellabeat-fitness-case-study?scriptVersionId=92026763)
 - Excel + SQL + Tableau: COVID Dashboard
-- [**Tableau**: Women in the Olympics](https://public.tableau.com/app/profile/khaitlin.bernaldez/viz/WomenintheOlympics_16467230855410/Dashboard12)
+- [**Tableau**: Summarizing Women's Participation in the Olympics Over Time via a Dashboard](https://public.tableau.com/app/profile/khaitlin.bernaldez/viz/WomenintheOlympics_16467230855410/Dashboard12)
 - Python: DNA Sequencing
 
 ### Resources
