@@ -1,4 +1,4 @@
-Welcome! My name is Khaitlin and this is my GitHub.
+# Welcome! My name is Khaitlin and this is my GitHub.
 
 ## About Me
 - Aspiring Bioinformatic Analyst
@@ -9,7 +9,7 @@ Welcome! My name is Khaitlin and this is my GitHub.
 - Skills: Data analysis, Data visualization
 
 ## Projects
-- R: Bellabeat Fitness Data
+- [**R**: Bellabeat Fitness Data](https://www.kaggle.com/code/khaitlinbernaldez/bellabeat-fitness-case-study?scriptVersionId=92026763)
 - Excel + SQL + Tableau: COVID Dashboard
 - [**Tableau**: Women in the Olympics](https://public.tableau.com/app/profile/khaitlin.bernaldez/viz/WomenintheOlympics_16467230855410/Dashboard12)
 - Python: DNA Sequencing
