@@ -11,7 +11,7 @@
 
 ### Projects
 - [**R**: Generating Marketing Strategy Recommendations using Bellabeat Fitness Data](https://www.kaggle.com/code/khaitlinbernaldez/bellabeat-fitness-case-study?scriptVersionId=92026763)
-- Excel + SQL + Tableau: Creating a Dashboard to Display Global COVID Data Trends in 2021
+- [Excel + SQL + Tableau: Creating a Dashboard to Display Global COVID Data Trends in 2021](https://github.com/khaitmb/Global-Covid-Data)
 - [**Tableau**: Visualizing Women's Participation in the Olympics Over Time](https://public.tableau.com/app/profile/khaitlin.bernaldez/viz/WomenintheOlympics_16467230855410/Dashboard12)
 - Python: Investigating DNA Sequences Contained in a mutli-FASTA Formatted File
 
