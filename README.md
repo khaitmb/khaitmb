@@ -3,16 +3,17 @@
 ### About Me
 - Aspiring Bioinformatic Analyst
 - New Graduate with a Bachelor's in Biochemistry and a minor in Informatics
+- Professionally Certified Data Analyst
 
 ### Skills
 - Tools: Python, R, SQL, Tableau, Microsoft Excel
 - Skills: Data analysis, Data visualization
 
 ### Projects
-- [**R**: Generating Marketing Suggestions using Bellabeat Fitness Data](https://www.kaggle.com/code/khaitlinbernaldez/bellabeat-fitness-case-study?scriptVersionId=92026763)
-- Excel + SQL + Tableau: COVID Dashboard
-- [**Tableau**: Summarizing Women's Participation in the Olympics Over Time via a Dashboard](https://public.tableau.com/app/profile/khaitlin.bernaldez/viz/WomenintheOlympics_16467230855410/Dashboard12)
-- Python: DNA Sequencing
+- [**R**: Generating Marketing Strategy Recommendations using Bellabeat Fitness Data](https://www.kaggle.com/code/khaitlinbernaldez/bellabeat-fitness-case-study?scriptVersionId=92026763)
+- Excel + SQL + Tableau: Creating a Dashboard to Display Global COVID Data Trends in 2021
+- [**Tableau**: Visualizing Women's Participation in the Olympics Over Time](https://public.tableau.com/app/profile/khaitlin.bernaldez/viz/WomenintheOlympics_16467230855410/Dashboard12)
+- Python: Investigating DNA Sequences Contained in a mutli-FASTA Formatted File
 
 ### Resources
 
