@@ -1,7 +1,7 @@
 ### Welcome! My name is Khaitlin and this is my GitHub.
 
 ### About Me
-- Aspiring Bioinformatic Analyst
+- Aspiring Bioinformatic Data Analyst
 - New Graduate with a Bachelor's in Biochemistry and a minor in Informatics
 - Professionally Certified Data Analyst
 
