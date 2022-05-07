@@ -15,6 +15,8 @@
 - [**Tableau**: Visualizing Women's Participation in the Olympics Over Time](https://public.tableau.com/app/profile/khaitlin.bernaldez/viz/WomenintheOlympics_16467230855410/Dashboard12)
 - [**Python**: Investigating DNA Sequences Contained in a Mutli-FASTA Formatted File](https://github.com/khaitmb/Python-for-Genomic-Data-Science/blob/main/README.md)
 
+### Personal Practice
+
 ### Resources
 
 ### Contact
