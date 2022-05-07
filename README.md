@@ -16,6 +16,7 @@
 - [**Python**: Investigating DNA Sequences Contained in a Mutli-FASTA Formatted File](https://github.com/khaitmb/Python-for-Genomic-Data-Science/blob/main/README.md)
 
 ### Personal Practice
+- [**SQL**: Completed Code Challenges on HackerRank](https://github.com/khaitmb/HackerRank_Solutions)
 
 ### Resources
 
