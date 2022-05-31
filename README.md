@@ -17,6 +17,7 @@
 
 ### Personal Practice
 - [**SQL**: Completed Code Challenges on HackerRank](https://github.com/khaitmb/HackerRank_Solutions)
+- **Python**: Completed Code Challenges on HackerRank
 
 ### Resources
 
