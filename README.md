@@ -6,7 +6,7 @@
 - Professionally Certified Data Analyst
 
 ### Skills
-- Tools: Python, R, SQL, Tableau, Microsoft Excel, Unix, Git
+- Tools: SQL, R, Python, Tableau, Microsoft Excel, Unix, Git
 - Skills: Data cleaning, Data wrangling, Data analysis, Data visualization
 
 ### Projects
