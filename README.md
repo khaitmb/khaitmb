@@ -2,8 +2,8 @@
 
 ### About Me
 - Aspiring Bioinformatic Data Analyst
-- New Graduate with a Bachelor's in Biochemistry and a minor in Informatics
-- Professionally Certified Data Analyst
+- New Graduate with a Bachelor's in Biochemistry and a concentration in Informatics
+- Professionally Certified Data Analyst (Google, IBM)
 
 ### Skills
 - Tools: SQL, R, Python, Tableau, Microsoft Excel, Unix, Git
