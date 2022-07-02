@@ -7,7 +7,7 @@
 
 ### Skills
 - Tools: SQL, R, Python, Tableau, Microsoft Excel, Unix, Git
-- Skills: Data cleaning, Data wrangling, Data analysis, Data visualization
+- Skills: Data cleaning, Data wrangling, Data analysis, Data visualization, Machine Learning
 
 ### Projects
 - [**R**: Generating Marketing Strategy Recommendations using Bellabeat Fitness Data](https://www.kaggle.com/code/khaitlinbernaldez/bellabeat-fitness-case-study?scriptVersionId=92026763)
@@ -21,6 +21,7 @@
 - **Python**: Completed Code Challenges on HackerRank
 
 ### Resources
+- [Python Basics](https://github.com/khaitmb/Python-Cheat-Sheet)
 
 ### Contact
 - [Tableau](https://public.tableau.com/app/profile/khaitlin.bernaldez#!/?newProfile=&activeTab=0)
