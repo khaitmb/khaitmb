@@ -15,7 +15,7 @@
 - [**Tableau**: Visualizing Women's Participation in the Olympics Over Time](https://public.tableau.com/app/profile/khaitlin.bernaldez/viz/WomenintheOlympics_16467230855410/Dashboard12)
 - [**Python**: Investigating DNA Sequences Contained in a Mutli-FASTA Formatted File](https://github.com/khaitmb/Python-for-Genomic-Data-Science/blob/main/README.md)
 - [**Excel + R**: Analyzing Indications of Breast Cancer Histology](https://www.kaggle.com/code/khaitlinbernaldez/eda-breast-cancer-histology/notebook?scriptVersionId=98209925)
-- Analyzing Historial Stock/Revenue Data.... *in progress*
+- [**Python**: Analyzing Historial Tesla Stock/Revenue Data]()
 
 ### Personal Practice
 - [**SQL**: Completed Code Challenges on HackerRank](https://github.com/khaitmb/HackerRank_Solutions)
