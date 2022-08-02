@@ -11,7 +11,7 @@
 
 ### Projects
 - [**Python**: Analyzing Historical Tesla Stock/Revenue Data](https://www.kaggle.com/code/khaitlinbernaldez/analyzing-historical-tesla-stock-revenue-data/notebook)
-- [**Python**: Identifying Trends in Job Postings]() *...in progress*
+- **Python**: Identifying Trends in Job Posting *...in progress*
 - [**Python**: Investigating DNA Sequences Contained in a Mutli-FASTA Formatted File](https://github.com/khaitmb/Python-for-Genomic-Data-Science/blob/main/README.md)
 - [**R**: Analyzing Indications of Breast Cancer Histology](https://www.kaggle.com/code/khaitlinbernaldez/eda-breast-cancer-histology/notebook?scriptVersionId=98209925)
 - [**R**: Generating Marketing Strategy Recommendations using Bellabeat Fitness Data](https://www.kaggle.com/code/khaitlinbernaldez/bellabeat-fitness-case-study?scriptVersionId=92026763)
