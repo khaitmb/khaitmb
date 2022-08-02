@@ -20,7 +20,7 @@
 
 ### Personal Practice
 - [**SQL**: Completed Code Challenges on HackerRank](https://github.com/khaitmb/HackerRank_Solutions)
-- [**Python**: Completed Code Challenges on HackerRank] (https://github.com/khaitmb/Python_HackerRank_Solutions/tree/main)
+- [**Python**: Completed Code Challenges on HackerRank](https://github.com/khaitmb/Python_HackerRank_Solutions/tree/main)
 
 ### Resources
 - [Python Cheat Sheet](https://github.com/khaitmb/Python-Cheat-Sheet)
