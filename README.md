@@ -1,8 +1,8 @@
 ### Welcome! My name is Khaitlin and this is my GitHub.
 
 ### About Me
-- Aspiring Data Analyst
-- New Graduate with a Bachelor's in Biochemistry with a concentration in Informatics
+- Healthcare Data Analyst
+- NBachelor's in Biochemistry with a concentration in Informatics
 - Professionally Certified Data Analyst (Google, IBM)
 
 ### Skills
