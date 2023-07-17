@@ -2,7 +2,7 @@
 
 ### About Me
 - Healthcare Data Analyst
-- NBachelor's in Biochemistry with a concentration in Informatics
+- Bachelor's in Biochemistry with a concentration in Informatics
 - Professionally Certified Data Analyst (Google, IBM)
 
 ### Skills
