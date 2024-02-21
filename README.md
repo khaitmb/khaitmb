@@ -25,7 +25,7 @@
 - [**Python**: Completed Code Challenges on HackerRank](https://github.com/khaitmb/Python_HackerRank_Solutions/tree/main)
 
 ### Resources
-- [Python Cheat Sheet](https://github.com/khaitmb/Python-Cheat-Sheet)
+- [Python Reference Sheet](https://github.com/khaitmb/Python-Cheat-Sheet)
 
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/khaitlin-bernaldez-9571261b0)
