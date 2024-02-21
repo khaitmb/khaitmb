@@ -16,6 +16,7 @@
 - [**Python**: Investigating DNA Sequences Contained in a Mutli-FASTA Formatted File](https://github.com/khaitmb/Python-for-Genomic-Data-Science/blob/main/README.md)
 - [**R**: Analyzing Indications of Breast Cancer Histology](https://www.kaggle.com/code/khaitlinbernaldez/eda-breast-cancer-histology/notebook?scriptVersionId=98209925)
 - [**R + Tableau**: Generating Marketing Strategy Recommendations using Bellabeat Fitness Data](https://www.kaggle.com/code/khaitlinbernaldez/bellabeat-fitness-case-study?scriptVersionId=92026763)
+  - [Tableau Dashboard](https://public.tableau.com/app/profile/khaitlin.bernaldez8111/viz/CapstoneBellabeatFitnessUsageTrends/UsageTrends2)
 - [**SQL + Tableau**: Creating a Dashboard to Display Global COVID Data Trends](https://github.com/khaitmb/Global-Covid-Data)
 - [**Tableau**: Visualizing Women's Participation in the Olympics Over Time](https://public.tableau.com/app/profile/khaitlin.bernaldez/viz/WomenintheOlympics_16467230855410/Dashboard12)
 
